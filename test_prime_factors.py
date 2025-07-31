@@ -33,4 +33,4 @@ def test_prime_factor_of_9():
 
 def test_prime_factor_of_12():
     prime_factor = PrimeFactor()
-    assert prime_factor.of(9) == [2, 2, 3]
+    assert prime_factor.of(12) == [2, 2, 3]
